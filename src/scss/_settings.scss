@@ -120,11 +120,11 @@ a {
 }
 
 .title-second {
-  font-family: --second-family;
+  font-family: var(--second-family);
 }
 
 .section-title {
-  font-family: --second-family;
+  font-family: var(--second-family);
   letter-spacing: 1.2px;
   font-weight: 400;
   color: var(--accent-color);
